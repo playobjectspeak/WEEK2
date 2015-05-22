@@ -1,0 +1,75 @@
+
+
+
+#about {
+    height:700px;
+    background-image: linear-gradient(#2196F3, #512DA8);
+    background-size: cover;
+    
+}
+
+* { 
+    font-family: 
+'Raleway', sans-serif;
+    color: white;
+    
+} 
+
+.first {
+    margin-top: 8em;
+}
+    
+.glyphicon {
+    margin-top: 1em;
+    font-size: 5em;
+}
+
+#works {
+     height:1000px;
+     background-image: linear-gradient(#00B8D4,#00BFA5);
+}
+
+#contact {
+     height: 600px;
+     background-image: linear-gradient(#00BFA5,#FFF176);
+}
+
+.second {
+     font-size: 2.5em;
+     margin-top: 5em;
+    
+}
+
+h5 {
+    position: absolute;
+    margin-top: .5em;
+}
+p {
+    margin-top: 1em;
+
+}
+
+.third {
+    margin-top: 1.5em;
+}
+h2 {
+    text-align: center;
+}
+footer{
+    width: 100%;
+    padding: 15px;
+    background-color: black;
+}
+.navbar {
+    background-color: transparent;
+    border-color: transparent;
+
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    border-bottom: thick solid #fff;
+    color: white;
+}
